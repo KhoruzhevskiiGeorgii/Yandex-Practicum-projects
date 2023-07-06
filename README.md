@@ -1,2 +1,2 @@
-# Yandex-Practicum-projects
-Educational projects I made studying at Yandex Practicum.
+# Yandex Practicum
+Учебные проекты, которые я выполнил обучаясь на платформе Яндекс Практикум
